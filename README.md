@@ -81,4 +81,4 @@ This repository is maintained by the **Code Crackers Club** and is intended sole
 
 **Prepared by:**  
 **Manmohan Zanwar**  
-[LinkedIn – developer-manmohan](https://linkedin.com/in/developer-manmohan)
+[LinkedIn](https://linkedin.com/in/developer-manmohan)

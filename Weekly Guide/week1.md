@@ -104,4 +104,4 @@ If you face any issues or have questions, feel free to reach out via the Code Cr
 
 **Prepared by:**  
 **Manmohan Zanwar**  
-[LinkedIn – developer-manmohan](https://linkedin.com/in/developer-manmohan)
+[LinkedIn](https://linkedin.com/in/developer-manmohan)
