@@ -63,7 +63,7 @@ Create a GitHub repository to document your progress and learnings.
 
 - **Repository Name:** `YourName-CC-AIML-W25`
 - **Visibility:** Private
-- **Share access with:** `zanwarmanmohan@gmail.com`
+- **Share access with:** `zanwarmanmohan@gmail.com`, `contact.codecrackers@gmail.com`
 
 ### What to Include
 
